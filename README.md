@@ -1,2 +1,1 @@
-Metodos Numericos
-Projeto de alguns algoritmos vistos na disciplina de Métodos Numéricos.
+Projeto de alguns algoritmos vistos na disciplina de Métodos Numéricos. Os algoritmos são: método de Lagrange para encontrar intervalos onde se encontram as raízes de um polinomio, método da bissecçao, da falsa posiçao e de pegaso para encontrar raizes de um polinomio e, por fim, metodos de resolucao de sistemas lineares, como: eliminaçao de Gauss com pivoteamento parcial, fatoraçao LU e metodo iterativo de Gauss Jacobi
